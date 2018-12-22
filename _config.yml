@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "http://almendoza25.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -11,10 +11,10 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Hi! My name is Alfredo.</h1>
-     <p>I'm a tech professional with experiences in Web, Mobile Apps, Gaming Industry, and Quality Assurance</p>
+     <p>I'm a tech professional with experiences in Web, Mobile Apps, Quality Assurance, and Project Management</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+
 
   # Icons
   rss: false

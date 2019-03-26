@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 feature-img: "img/color.png"
 ---
+
 {:.center}
 ![]({{ site.baseurl }}/img/Philippines.jpg)
 
@@ -11,17 +12,20 @@ I am a technology enthusiast with professional experiences in Full Stack Web Dev
 
 ### Skills:
 
-#### Mobile Development
-- iOS
-- Unity
+#### Web Development
 
-##### Web Development
 - JavaScript
 - HTML/CSS
 - React
 - Node.js
 
-##### Quality Assurance
+#### Mobile Development
+
+- iOS
+- Android
+
+#### Quality Assurance
+
 - JIRA
 - TestRail
 - Automation: Appium & Selenium
